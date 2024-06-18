@@ -1,0 +1,56 @@
+Pycharm Shortcuts
+    @YoCoco2233 start at 2024-6-19 1:15AM,end at 1:43 AM
+    Bare plante tvil, Det er så mange veier å gå (埋下质疑,长路漫漫)
+
+In Pycharm,shortcuts are a series of
+key board combinations used to
+increase programming efficiency.
+Below are some commonly used Pycharm shortcuts.
+categorized by their functions:
+
+1,Editing
+    Basic code Completion: Ctrl + Space
+    Smart Code Completion: Ctrl + Shift +Space
+    Complete Statement: Cmd + Shift + Eater(Mac) or Ctrl + Shift + Enter (Windows/Linux)
+    Complete Statement: Cmd + Shift + Enter (Mac) or Ctrl + Shift + Enter (Windows/Linux)
+    Show Method Parameter Info: Cmd + P (Mac) or Ctrl + P (Windows/Linux)
+    Quick Documentation Lookup: Ctrl + J or Middle button click
+    External Doc: Shift + F1
+    Generate Code: Alt + Insert
+    Override Methods: Ctrl + O
+    Implement Methods: Ctrl + I
+    Surround with: Cmd + Option + T (Mac)
+    Comment/Uncomment: Cmd + / (Mac for single-line comment), Cmd + Option + / (Mac for block comment)
+2. Search/Replace
+    Global Search: Ctrl + Shift + F
+    Global Replace: Ctrl + Shift + R
+    Find Next: F3
+    Find Previous: Shift + F3
+3. Running
+    Run/Debug Configurations: Alt + Shift + F10
+4. Debugging
+
+    (There are many debugging-related shortcuts, only some are listed here)
+    Step Into: F7
+    Step Out: Shift + F8
+    Step Over: F8
+    5. Navigation
+    Go to Declaration: Cmd + B (Mac) or Ctrl + B (Windows/Linux)
+    Find Class/File: Cmd + Shift + O (Mac) or Ctrl + Shift + N (Windows/Linux)
+    Find Symbol: Cmd + Option + O (Mac) or Ctrl + Alt + Shift + N (Windows/Linux)
+6. Refactoring
+    Rename: Shift + F6
+    Extract Method: Cmd + Option + M (Mac) or Ctrl + Alt + M (Windows/Linux)
+7. Usage Search
+    Find Usages: Alt + F7
+8. Live Templates
+    PyCharm supports custom templates and allows you to quickly insert code snippets using shortcuts.
+
+9. General
+    Open Settings/Preferences: Cmd + , (Mac) or Ctrl + Alt + S (Windows/Linux)
+
+Please note that due to differences in PyCharm versions and operating systems, some shortcuts may vary.
+ The shortcuts listed above are based primarily on PyCharm's general settings and Windows/Linux operating systems.
+ On Mac systems, some shortcuts use Mac-specific modifier keys (such as Cmd and Option). Additionally, users
+ can customize their own shortcuts in PyCharm's settings.
+
