@@ -30,6 +30,31 @@ in normal mathematical calculations
         - Converts object x to a string
         
 5, repr(x): Function description
-            - Converts the Python expression in the string str and returns an object
- 
+            - Converts the Python expression in the string str and returns an object x
+            ro a string representation suitable fro debugging and display.
+            
+6, eval(str)：Function description
+            - evaluates the Python expression in the string str and returns an object.
+            
+7, tuple(s)：Function description
+            - converts the sequence s to a tuple.
+            
+8, list(s)：Function description
+            - converts the sequence s to a list.
+            
+9, chr(x)：Function description
+            - converts an integer x to a Unicode character.
+            
+10, ord(x)：Function description
+            - converts a character x to its ASCII integer value.
+            
+11, hex(x)：Function description
+            - converts an integer x to a hexadecimal string.
+            
+12, oct(x)：Function description
+            - converts an integer x to an octal string.
+            
+13, bin(x)：Function description
+            - converts an integer x to a binary string.
+            
 """
