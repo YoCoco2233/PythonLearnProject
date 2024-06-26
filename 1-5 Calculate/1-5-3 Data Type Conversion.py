@@ -9,6 +9,7 @@ price = input('Enter the price of the product: ')
 
 # Format Output
 print(f'You purchased product {name}, the quantity is {number}, at a price of {price * 2}')
+print(f'You purchased product {name}, the quantity is {number}, at a price of {eval(price) * 2}')
 """
 The string 'price' is of string type and cannot participate 
 in normal mathematical calculations 
@@ -58,3 +59,35 @@ in normal mathematical calculations
             - converts an integer x to a binary string.
             
 """
+
+num = input('Please input you luck number')
+print(type(num))
+num = int(num)
+print(type(num))
+"""
+<class 'str'>
+<class 'int'>
+"""
+
+num1 = 10
+print(type(num1))
+print('-' * 10)
+num1 = float(num1)
+print(type(num1))
+
+# float to int ,loss float value
+num2 = 22.33
+print(type(num2))
+print('-' * 10)
+num2 = int(num2)
+print(num2)
+print(type(num2))
+
+str1 = '2233'
+str2 = 22.33
+num1 = int(str1)
+num2 = float(str2)
+print(type(str1))
+print(type(str2))
+
+
