@@ -26,7 +26,7 @@ def complex_operation(numbers):
         return (False, "Positive sum is not greater than average.",
                 f"Positive Sum: {positive_sum}, Average: {average}")
 
-    # 测试代码
+
 
 
 numbers = [1, -2, 3, 4, -5, 6]
