@@ -18,5 +18,3 @@ if age3 < 18:
     print("You are a kid.")
 elif age3 >= 18 and age3 < 25:
     print("You are a teenage.")
-else:
-    print("Your age is %s" % (age3))
