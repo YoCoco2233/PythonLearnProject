@@ -1,4 +1,4 @@
-# 2024-7-2 23:25 start, 2024-7-2 23:50 end  @YoCoco2233 short-circuits
+# 2024-7-2 23:25 start, 2024-7-2 23:50 end  @YoCocoium short-circuits
 """
 The expression returns the value of the operand that determines the over result
 

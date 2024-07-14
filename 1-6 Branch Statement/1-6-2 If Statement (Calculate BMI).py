@@ -1,4 +1,4 @@
-# 2024-7-12 17:49 start, 2024-7-12 16:59 end  @YoCoco2233 If Statement(Calculate BMI)
+# 2024-7-12 17:49 start, 2024-7-12 16:59 end  @YoCocoium If Statement(Calculate BMI)
 # BMI = kg / height**2
 # Get height
 height = float(input("Enter your height in m: "))

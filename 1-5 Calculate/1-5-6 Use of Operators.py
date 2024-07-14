@@ -1,4 +1,4 @@
-# 2024-6-28 15:27 start, 2024-6-28 23:52 end  @YoCoco2233 Use of Operators
+# 2024-6-28 15:27 start, 2024-6-28 23:52 end  @YoCocoium Use of Operators
 """
 Addition Operator (+): Described as adding, with an example of 1+1 resulting in 2.
 Subtraction Operator (-): Described as subtracting, with an example of 1-1 resulting in 0.
