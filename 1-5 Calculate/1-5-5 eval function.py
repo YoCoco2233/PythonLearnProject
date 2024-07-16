@@ -1,4 +1,4 @@
-# 2024-6-26 18:28 start, 2024-6-26 18:35 end  @YoCocoium eal function
+# 2024-6-26 18:28 start, 2024-6-26 18:35 end  @YoCoco2233 eal function
 # eval primarily used for type conversion operations in strings
 str1 = '22'
 str2 = '22.33'

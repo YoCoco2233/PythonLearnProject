@@ -1,4 +1,4 @@
-# 2024-7-14 23:50 start, 2024-7-14 23:57 end  @YoCocoium Ternary Operator
+# 2024-7-14 23:50 start, 2024-7-14 23:57 end  @YoCoco2233 Ternary Operator
 # a concise way to choose one of two values based on a condition being true or false.
 condition = True
 x = 0
