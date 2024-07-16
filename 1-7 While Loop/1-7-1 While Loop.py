@@ -1,4 +1,4 @@
-# 2024-7-15 21:41 start, 2024-7-15 21:47 end  @YoCocoium While Loop
+# 2024-7-15 21:41 start, 2024-7-15 21:47 end  @YoCoco2233 While Loop
 # Initialize a counter variable.
 
 counter = 0  # Set the counter to 0
