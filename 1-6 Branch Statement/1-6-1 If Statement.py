@@ -1,4 +1,4 @@
-# 2024-7-11 16:10 start, 2024-7-11 16:34 end  @YoCocoium If Statement
+# 2024-7-11 16:10 start, 2024-7-11 16:34 end  @YoCoco2233 If Statement
 # define age
 age = 19
 if age >= 18:

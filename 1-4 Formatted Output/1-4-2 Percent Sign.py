@@ -1,4 +1,4 @@
-# 2024-6-20 14:20 start, 2024-6-20 14:42 end  @YoCocoium Percent Sign
+# 2024-6-20 14:20 start, 2024-6-20 14:42 end  @YoCoco2233 Percent Sign
 """
 Frykten for feiltrinn kan mørklegge alt
 (害怕犯错只会使我们离成功越来越远)

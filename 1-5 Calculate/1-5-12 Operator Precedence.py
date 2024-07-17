@@ -1,4 +1,4 @@
-# 2024-7-3 23:08 start, 2024-7-3 23:16 end  @YoCocoium Operator Precedence
+# 2024-7-3 23:08 start, 2024-7-3 23:16 end  @YoCoco2233 Operator Precedence
 
 # 括号 () 优先级最高
 result1 = (3 + 4) * 2  # 结果为 14，不是 14 * 2 = 28，因为括号内的操作先执行

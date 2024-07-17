@@ -1,4 +1,4 @@
-# 2024-6-19 14:30 start,23:55 end  @YoCocoium Variables
+# 2024-6-19 14:30 start,23:55 end  @YoCoco2233 Variables
 """
     Mange mål som kan nåes om du våger, å tro på at du har det som skal til
     (敢于做便能达成目标,相信自己有这个能力)

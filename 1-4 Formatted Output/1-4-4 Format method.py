@@ -1,4 +1,4 @@
-# 2024-6-22 14:32 start, 2024-6-22 14: end  @YoCocoium Format method
+# 2024-6-22 14:32 start, 2024-6-22 14: end  @YoCoco2233 Format method
 
 _Varname1 = '2233'
 print('String{}'.format(_Varname1))

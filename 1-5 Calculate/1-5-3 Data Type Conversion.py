@@ -1,4 +1,4 @@
-# 2024-6-23 18:43 start, 2024-6-23 18:35 end  @YoCocoium Type Casting
+# 2024-6-23 18:43 start, 2024-6-23 18:35 end  @YoCoco2233 Type Casting
 
 # Product name
 name = input('Enter the product name: ')
