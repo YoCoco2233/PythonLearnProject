@@ -10,3 +10,4 @@ while counter < 22:  # The loop while continue until counter reaches 10
 
 # After the loop, print a final message
 print("Loop Finished.")
+

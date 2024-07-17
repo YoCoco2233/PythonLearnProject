@@ -13,6 +13,7 @@ print(name,age)
 """
 print(value, end = '\n')
 """
+
 print(name, end='')
 print(age, end='')
 
