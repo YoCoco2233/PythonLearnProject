@@ -8,7 +8,7 @@ string = "Hello, World!"
 # indexing starts from 0 in Python,so the first character is at index 0
 print(string[0])
 
-# You can access any chaeacter in the string using its index
+# You can access any character in the string using its index
 print(string[7])
 
 # Negative indexing starts from the end of the string, -1 is the last character
