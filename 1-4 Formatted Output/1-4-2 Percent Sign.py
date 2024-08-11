@@ -24,6 +24,7 @@ print('String % Format % Format' % (ValueName0,ValueName1, ValueNameN))
 %G %F和%E的简写
 
 """
+
 name = '元可可'
 age = 19
 

@@ -14,7 +14,6 @@ for sections of code ,especially when those ezplanations span multiple lines.
 """
 def calculate_sum(a,b):
     '''
-
     :param a:
     :param b:
     :return:

@@ -3,6 +3,7 @@
     Vi har alle tvil, Spørsmål om valg, Er dette det du vil
     (对于选择,我们心存疑虑,这是你要的结果吗?)
 """
+
 """
 1,Basic Data Types
 integer,Float,Character,Boolean
