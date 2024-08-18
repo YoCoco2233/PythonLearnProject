@@ -1,0 +1,3 @@
+Hello YoCoco, This is a new content:
+Writing to files is easy in Python
+Adding more content:
