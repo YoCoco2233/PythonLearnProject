@@ -1,22 +1,19 @@
-# 2024-8-19 21:02 start, 2024-8-19 21:21 end  @YoCoco2233 1-13-1 String Search
+# 2024-8-19 21:02 start, 2024-8-19 21:21 end @YoCoco2233 1-13-1 String Search
 
-# 字符串变量.find(要搜索的内容) 检查某个子串是否包含在这个字符串中，如果在，返回这个字串开始的位置下标，否则返回-1.
-
-# 字符串变量.index(要搜索的内容) 检查某个子串是否包含在这个字符串中，若果在，返回这个字串开始的位置下标，否则报异常。
-
+# The .find(substring) method of a string variable checks if a substring is present within the string. If it is, it returns the starting index of the substring; otherwise, it returns -1.
+# The .index(substring) method of a string variable also checks if a substring is present within the string. If it is, it returns the starting index of the substring; otherwise, it raises an exception.
 str1 = 'hello world'
-print(str1.find('linux'))
-print(str1.find('world'))
+print(str1.find('linux')) # This will print -1 because 'linux' is not found in str1.
+print(str1.find('world')) # This will print the index where 'world' starts in str1.
 
 str2 = 'Hello Python'
-print(str1.find('Python'))
-print(str2.index('Python'))
+print(str1.find('Python')) # This will print -1 because 'Python' is not found in str1.
+print(str2.index('Python')) # This will print the index where 'Python' starts in str2.
 
-
+# Uncommenting the following line will raise an exception if 'Linux' is not found in str2.
 #print(str2.index('Linux'))
-
 """
-判断输入文件名称点号的位置，如上传功能
+Determine the position of the dot in the input file name, e.g., for an upload function.
 """
 filename = input('请输入文件完整名称：')
 if filename.find('.') > -1:
