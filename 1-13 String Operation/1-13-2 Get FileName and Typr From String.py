@@ -9,7 +9,6 @@ print('The file type is: ' + filename[index:]) # Here, index is the position of 
 
 #Check if the file name contains a '.'
 if filename.rfind(".") != -1: # rfind() searches from the right, useful for files with multiple '.' like '123.tar.gz'
-
     print('This is a valid file.')
 else:
     print('This is not a valid file.')
